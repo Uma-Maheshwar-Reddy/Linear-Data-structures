@@ -1,0 +1,28 @@
+>> different ways of calling functions 
+>> calender program
+
+>> making a structure array to store student details
+>> print a given number in words
+>> single recursive function to calculate max min sum and avg of all elements in an array
+
+>> to check a given infix expression is valid
+>> conversion from infix to postfix
+>> **stack of structures
+>> postfix evaluation
+>> bubble sorting using stacks
+>>** generic stack
+
+>> reverse a queue using a stack
+>> implementation of a queue using two stacks
+>> implementation of stacks using queue
+>> **evaluating a infix expression using queues
+
+>> adding two polynomials using linked lists
+>> union and intersection of two linked lists
+>> insertion sort using linked list
+>> **radix sort using linked lists
+>> deleting duplicates in list
+>> combining two linked lists
+>> implementing stacks with lists
+>> implementing queues with linked lists
+>> joseph's army game
